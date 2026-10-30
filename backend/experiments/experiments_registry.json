@@ -1,0 +1,23 @@
+[
+  {
+    "id": "EXP_20261030_112119",
+    "timestamp": "2026-10-30T11:21:21.550332",
+    "epochs": 25,
+    "max_epochs": 25,
+    "learning_rate": 0.01,
+    "batch_size": 32,
+    "noise": 0.2,
+    "samples": 2000,
+    "stopped_early": false,
+    "best_val_loss": 0.0977,
+    "best_val_accuracy": 0.962,
+    "accuracy": 0.958,
+    "precision": 0.9526,
+    "recall": 0.964,
+    "f1_score": 0.9583,
+    "auc_roc": 0.9954,
+    "duration_seconds": 1.52,
+    "model_path": "/Users/vishalp/.gemini/antigravity-ide/scratch/neural-network-studio/backend/models/ann_moons_model.keras",
+    "status": "Completed"
+  }
+]
